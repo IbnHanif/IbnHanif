@@ -22,34 +22,28 @@ I'm not on the conventional degree → placement track. I'm building my own path
 
 ## 🛠️ What I Actually Build With
 
-**Frontend**
-`HTML5` `CSS3` `JavaScript` — responsive layouts, animations, DOM logic, API integrations
+**Frontend** — `HTML5` `CSS3` `JavaScript (Vanilla)` — responsive layouts, CSS animations, DOM logic, API integrations
 
-**Backend & Tooling**
-`Python` `Flask` `Git` `Docker` `n8n (self-hosted)`
+**Backend & Tooling** — `Python` `Flask` `Git` `Docker` `n8n (self-hosted)`
 
-**Dev Environment**
-`Linux / WSL` `Neovim (LazyVim)` `Terminal-first workflow` `Prompt Engineering`
+**Dev Environment** — `Linux / WSL` `Neovim (LazyVim)` `Terminal-first workflow`
 
-**Currently Learning**
-`Advanced JavaScript` `React` `Backend persistence` `UI/UX principles`
+**Currently Learning** — `Advanced JavaScript` `React` `Backend persistence` `UI/UX principles`
 
 ---
 
 ## 📌 Projects
 
-> 🔗 **Live links coming** — deploying to GitHub Pages now. Check back soon or browse repos directly.
+| Project | What It Does |
+|--------|-------------|
+| [🗂️ Kantainer — Kanban Board](https://github.com/IbnHanif/Kantainer-Kanban-Web-App) | Lightweight Kanban board with drag-and-drop task management across workflow stages. Vanilla JS, clean UI, responsive layout. |
+| [🎮 Pokémon Viewer V1](https://github.com/IbnHanif/Pokemon-Viewer-v1) | JavaScript-powered Pokédex with dynamic sprite rendering, `.webp`/`.png` fallback, and instant audio feedback. |
+| [❓ Pokémon Quiz App](https://github.com/IbnHanif/pokemon-quiz-app) | Interactive quiz game built with HTML, CSS, and Vanilla JS. |
+| [🃏 Pokémon Profile Card](https://github.com/IbnHanif/Pokemon-Profile-Card) | Styled Pokémon card UI — CSS layout and design experiment. |
+| [🎲 Random Pokémon Viewer](https://github.com/IbnHanif/RandomPokemonveiwer-V1) | Randomized Pokémon discovery tool — API-driven, instant results. |
+| [🐉 Responsive Pokémon Demo](https://github.com/IbnHanif/responsive-pokemon-demo) | CSS media query experiment where resizing the screen evolves Charmander → Charizard. Pure CSS, zero JS. |
 
-| Project | Stack | What It Does |
-|--------|-------|-------------|
-| 🎮 Pokédex | HTML, CSS, JS, PokeAPI | Full Pokémon browser with search and stats |
-| 🃏 Blackjack Game | HTML, CSS, JS | Card game with full JS logic and UI state |
-| 🎧 Aesthetic Music Player | HTML, CSS, JS | Frontend-only player focused on visual feel |
-| 📋 Kanban Board | HTML, CSS, JS | Drag-and-drop task management |
-| 💸 Expense Tracker | HTML, CSS, JS | Basic personal finance logger |
-| ⬇️ YouTube Downloader | Python, Flask | CLI + web tool for video downloads |
-| 🐾 Charizard Site | HTML, CSS | Themed responsive layout, CSS showcase |
-| 😂 Meme Fetcher | Python, Flask, Reddit API | Dynamic meme feed (paused — API changes) |
+> 🔧 More projects being pushed soon — Blackjack game, music player, expense tracker, Flask tools.
 
 ---
 
@@ -77,7 +71,7 @@ Long-term: remote work, creative control, financial independence, meaningful sof
 
 ## 🧠 A Bit More
 
-- Muslim · Mira Bhayandar, Maharashtra
+- Muslim · Mira Bhayandar, Maharashtra, India
 - Celibate by choice — discipline is a lifestyle, not just a habit
 - Self-hosts tools to understand them, not just use them
 - Obsidian for thinking, LazyVim for building, Terminal for everything else
