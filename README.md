@@ -1,94 +1,92 @@
-<h1 align="center">Hi, I'm Bilal 👋</h1>
+<div align="center">
 
-<p align="center">
-  16-year-old developer building a design-forward, Python-powered future.  
-</p>
+# hey, I'm Bilal 👋
+### 16 · India · Building design-forward software before most people start
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-IbnHanif-black?style=flat-square&logo=github)](https://github.com/IbnHanif)
+![Profile Views](https://komarev.com/ghpvc/?username=IbnHanif&style=flat-square&color=black)
 
-## 🚀 About Me
-
-I'm a self-taught developer from India focused on:
-
-- **Frontend development** (HTML, CSS, JS → React soon)  
-- **Python development** (automation, Flask apps, API tools)  
-- **Linux fundamentals** (WSL + Kali basics, networking, system workflow)  
-- **Clean, minimal, product-inspired design**  
-
-I love blending **creativity + engineering**.  
-I’m building real projects early, learning fast, and shaping myself into a dev who can build interfaces as thoughtful as products like **Linear, Notion, and Arc**.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 Who I Am
 
-### **Frontend**
-- HTML5  
-- CSS3 (responsive design, animations)  
-- JavaScript (DOM, app logic)  
+I'm a self-taught developer from Mira Bhayandar, India — building real things while most people my age are still deciding whether to start. I care about software that *feels right*: clean interfaces, intentional interactions, and products that respect the user's intelligence.
 
-### **Python**
-- Python 3  
-- Flask  
-- Automation scripts  
-- CLI tools  
+My north star is the design quality of companies like **Notion**, **Linear**, and **Arc** — not just as inspiration, but as a standard to eventually build at.
 
-### **Developer Workflow**
-- Linux / WSL  
-- Kali basics (networking commands, system config, aliases)  
-- VS Code  
-- Git & GitHub  
+I'm not on the conventional degree → placement track. I'm building my own path through shipped projects, system-level curiosity, and genuine taste.
 
 ---
 
-## 📌 Current Projects
+## 🛠️ What I Actually Build With
 
-- 🎧 **Aesthetic Music Player (Frontend-only)**  
-- 🎮 **Pokémon-themed UI mini apps**  
-- 🎲 **Blackjack Game (JS logic + UI updates)**  
-- ⬇️ **Personal YouTube Downloader (Flask)**  
-- 🐧 **Linux practice dashboards & notes**  
+**Frontend**
+`HTML5` `CSS3` `JavaScript` — responsive layouts, animations, DOM logic, API integrations
 
-More coming as I push deeper into **modern frontend + Python backend**.
+**Backend & Tooling**
+`Python` `Flask` `Git` `Docker` `n8n (self-hosted)`
 
----
+**Dev Environment**
+`Linux / WSL` `Neovim (LazyVim)` `Terminal-first workflow` `Prompt Engineering`
 
-## 📈 What I'm Working Toward
-
-- Becoming a **full-stack Python + frontend developer**  
-- Building product-level UI that feels clean, intentional, and creative  
-- Contributing to open-source tools with design-forward philosophies  
-- Preparing myself for a future at companies like **Notion, Linear, or OpenAI**  
+**Currently Learning**
+`Advanced JavaScript` `React` `Backend persistence` `UI/UX principles`
 
 ---
 
-## 📚 Current Learning
+## 📌 Projects
 
-- Advanced JavaScript  
-- Flask routing + templates  
-- Networking fundamentals (for broader understanding)  
-- UI/UX for web interfaces  
-- React (coming soon)  
+> 🔗 **Live links coming** — deploying to GitHub Pages now. Check back soon or browse repos directly.
 
----
-
-## 🧭 A Bit About Me
-
-- Highly disciplined and goal-oriented  
-- Celibate by choice  
-- Obsessed with personal improvement  
-- Minimalist workflow enjoyer  
-- Mix of curiosity, competitiveness, and introspection  
+| Project | Stack | What It Does |
+|--------|-------|-------------|
+| 🎮 Pokédex | HTML, CSS, JS, PokeAPI | Full Pokémon browser with search and stats |
+| 🃏 Blackjack Game | HTML, CSS, JS | Card game with full JS logic and UI state |
+| 🎧 Aesthetic Music Player | HTML, CSS, JS | Frontend-only player focused on visual feel |
+| 📋 Kanban Board | HTML, CSS, JS | Drag-and-drop task management |
+| 💸 Expense Tracker | HTML, CSS, JS | Basic personal finance logger |
+| ⬇️ YouTube Downloader | Python, Flask | CLI + web tool for video downloads |
+| 🐾 Charizard Site | HTML, CSS | Themed responsive layout, CSS showcase |
+| 😂 Meme Fetcher | Python, Flask, Reddit API | Dynamic meme feed (paused — API changes) |
 
 ---
 
-## 🤝 Let’s Connect
+## 📈 GitHub Stats
 
-- GitHub: **@IbnHanif**  
-- More links coming soon as I build new projects.
+<div align="center">
+
+![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbnHanif&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnHanif&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d)
+
+</div>
 
 ---
 
-<p align="center">
-  “Build with intention. Learn with discipline. Create with clarity.”
-</p>
+## 🎯 What I'm Working Toward
+
+By 18–19, I want to be genuinely employable at product-driven companies — not just technically, but with a portfolio that proves I think about *users*, not just code. The goal is **design + engineering synergy**: building full-stack products that work well *and* feel right.
+
+Short-term: master JavaScript deeply, ship a production-grade full-stack app, build a real portfolio beyond tutorial clones.
+
+Long-term: remote work, creative control, financial independence, meaningful software.
+
+---
+
+## 🧠 A Bit More
+
+- Muslim · Mira Bhayandar, Maharashtra
+- Celibate by choice — discipline is a lifestyle, not just a habit
+- Self-hosts tools to understand them, not just use them
+- Obsidian for thinking, LazyVim for building, Terminal for everything else
+- Genuinely curious about systems — not just surface-level coding
+
+---
+
+<div align="center">
+
+*"Build with intention. Learn with discipline. Create with clarity."*
+
+</div>
