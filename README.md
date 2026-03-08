@@ -36,6 +36,7 @@ I'm not on the conventional degree → placement track. I'm building my own path
 
 | Project | What It Does |
 |--------|-------------|
+| [🗡️ Demon Slayer Corps Search](https://github.com/IbnHanif/demon-slayer-corps-search) | Real-time character search filter with animated profile cards. Built with HTML, CSS and Vanilla JS. Live on GitHub Pages. |
 | [🗂️ Kantainer — Kanban Board](https://github.com/IbnHanif/Kantainer-Kanban-Web-App) | Lightweight Kanban board with drag-and-drop task management across workflow stages. Vanilla JS, clean UI, responsive layout. |
 | [🎮 Pokémon Viewer V1](https://github.com/IbnHanif/Pokemon-Viewer-v1) | JavaScript-powered Pokédex with dynamic sprite rendering, `.webp`/`.png` fallback, and instant audio feedback. |
 | [❓ Pokémon Quiz App](https://github.com/IbnHanif/pokemon-quiz-app) | Interactive quiz game built with HTML, CSS, and Vanilla JS. |
