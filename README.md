@@ -36,6 +36,7 @@ I'm not on the conventional degree → placement track. I'm building my own path
 
 | Project | What It Does |
 |--------|-------------|
+| [🕊️ Wren Wallpaper Site ](https://github.com/IbnHanif/wren) | Real-time API fetching for wallpapers from unsplash. Built with HTML, CSS and Vanilla JS. Live on GitHub Pages. |
 | [🗡️ Demon Slayer Corps Search](https://github.com/IbnHanif/demon-slayer-corps-search) | Real-time character search filter with animated profile cards. Built with HTML, CSS and Vanilla JS. Live on GitHub Pages. |
 | [🗂️ Kantainer — Kanban Board](https://github.com/IbnHanif/Kantainer-Kanban-Web-App) | Lightweight Kanban board with drag-and-drop task management across workflow stages. Vanilla JS, clean UI, responsive layout. |
 | [🎮 Pokémon Viewer V1](https://github.com/IbnHanif/Pokemon-Viewer-v1) | JavaScript-powered Pokédex with dynamic sprite rendering, `.webp`/`.png` fallback, and instant audio feedback. |
@@ -44,7 +45,7 @@ I'm not on the conventional degree → placement track. I'm building my own path
 | [🎲 Random Pokémon Viewer](https://github.com/IbnHanif/RandomPokemonveiwer-V1) | Randomized Pokémon discovery tool — API-driven, instant results. |
 | [🐉 Responsive Pokémon Demo](https://github.com/IbnHanif/responsive-pokemon-demo) | CSS media query experiment where resizing the screen evolves Charmander → Charizard. Pure CSS, zero JS. |
 
-> 🔧 More projects being pushed soon — Blackjack game, music player, expense tracker, Flask tools.
+> 🔧 More projects being pushed soon — like CLI style Music player and more ...
 
 ---
 
